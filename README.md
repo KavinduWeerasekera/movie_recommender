@@ -15,3 +15,7 @@ Install the packages using:
 
 Run the website:
        python main.py
+
+# Video demo
+
+🎬video demonstration is available in  movie_recommender.mp4
